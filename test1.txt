@@ -1,1 +1,2 @@
-This is test file One
+This is test file One.
+This is test file where I will take notes about mearging.
